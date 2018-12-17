@@ -1,2 +1,2 @@
 # web2-12
-http://runstant.com/phi/projects/phinajs_examples_walktomapiko
+http://runstant.com/g1727044/projects/c690e60f
